@@ -5,7 +5,6 @@ import { Component } from "@angular/core";
   template:
   `<div>
   <h3>{{pageTitle}}</h3>
-  <p>Hello Cricket Store!</p>
   <cric-products></cric-products>
   </div>`
 })
